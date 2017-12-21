@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Presidential Votes Distribution</title>
+    <link href='assets/css/basscss.min.css' rel='stylesheet'>
+    <link href='assets/css/app.css' rel='stylesheet'>
+  </head>
+  <body class='sans-serif'>
+    <div class='p2 mx-auto container'>
+      <div class='mb2 border-bottom border-gray'>
+        <h1 class='h2 m0'>Presidential Votes Distribution</h1>
+      </div>
+      <div class='mb2 clearfix'>
+        <div class='col col-5 left-align'></div>
+        <div class='col col-2 center mt2'></div>
+        <div class='col col-5 right-align'></div>
+      </div>
+      <div class='py2' id='viz'></div>
+      <form class='right-align'>
+        <label class='inline-block'>
+                   
+        </label>
+        <label class='inline-block'>
+                   
+        </label>
+      </form>
+      <div class='mt2 pt2 clearfix border-top border-gray h5'>
+        <div class="sm-col mb1">
+        </div>
+        <div class="sm-col-right mb1"> 
+        </div>
+      </div>
+    </div>
+    <script src='assets/js/d3.min.js'></script>
+    <script src='assets/js/viz.js'></script>
+
+    <!-- Twitter widget -->
+    <script>
+    window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+          t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+      t._e = [];
+      t.ready = function(f) {
+          t._e.push(f);
+      };
+      return t;
+    }(document, "script", "twitter-wjs"));
+    </script>
+  </body>
+</html>

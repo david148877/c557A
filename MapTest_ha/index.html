@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang='en'>   <!--This document define the laguange in English-->
+
+
+  <head>
+    <!--encoding-->
+    <meta charset='utf-8'>
+    <!--For supportting IE browser-->
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>                 
+    <!--For mobile user, add this, then   the content change lines automatically. Don't have to zoom in.-->
+    <meta name='viewport' content='width=device-width, initial-scale=1'>  
+    <title>2016 Presidential Votes Distribution</title>
+    
+    <!-- import tge scale of the color -->
+    <div>
+      <p align=center><img src="doc/img/scale.png"> </p>
+    </div>
+    
+    <!-- adjust the president photo size -->
+    <style>
+    .president{
+      width:200px;
+      height: 200px;
+      position: fixed;
+      top:400px;
+      right:50px;
+    }
+    img{
+      width: 100%;
+    }
+    </style>
+    <!-- END adjust the president photo size -->
+
+    <link href='doc/css/basecss.min.css' rel='stylesheet'>    <!--load .css file-->
+    <link href='doc/css/app.css' rel='stylesheet'>            <!--laod .css file--> 
+  </head>
+
+  <body class='sans-serif'>
+    <!-- import the president photo -->
+    <div class="president"><img src="doc/img/president_2016.jpg" alt=""></div>
+    
+    <div class='p2 mx-auto container'>
+      <div class='mb2 border-bottom border-gray'>
+        <h1 class='h2 m0'>2016 Presidential Votes Distribution</h1>
+      </div>
+      <div class='mb2 clearfix'>
+        <div class='col col-5 left-align'> </div>
+        <div class='col col-2 center mt2'> </div>
+        <div class='col col-5 right-align'> </div>
+      </div>
+      <div class='py2' id='main'> </div>
+      <form class='right-align'>
+        <label class='inline-block'> </label>
+        <label class='inline-block'> </label>
+      </form>
+      <div class='mt2 pt2 clearfix border-top border-gray h5'>
+        <div class="sm-col mb1"> </div>
+        <div class="sm-col-right mb1"> </div>
+      </div>
+    </div>
+    <div id="detail">
+      <h3 class="header">State: </h3>
+      <p class="stats"></p>
+    </div>
+    <script src='doc/js/d3.min.js'> </script>
+    <script src='doc/js/main.js'> </script>
+  </body>
+
+
+</html>

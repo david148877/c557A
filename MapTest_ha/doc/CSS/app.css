@@ -1,0 +1,31 @@
+/* resets */
+
+body { margin: 0 }
+img { max-width: 100% }
+svg { max-height: 100% }
+
+
+/* main.js properties */
+.container { max-width: 665px; }
+
+
+.state text {
+  font-size: 12px;
+  text-anchor: middle;
+  stroke: none;
+}
+
+.state .votes {
+  font-size: 10px;
+  text-anchor: end;
+}
+
+#detail {
+  display: none;
+  height:10%;
+  width: 10%;
+  top: 50%;
+  left: 90%;
+  background: lightgrey;
+  position: absolute;
+}

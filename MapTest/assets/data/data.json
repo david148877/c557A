@@ -1,0 +1,359 @@
+[
+  {
+    "id": "AK",
+    "name": "Alaska",
+    "name_short": "AK",
+    "grid": {"x": 0, "y": 1},
+    "votes": 3
+  },
+  {
+    "id": "AL",
+    "name": "Alabama",
+    "name_short": "AL",
+    "grid": {"x": 7, "y": 7},
+    "votes": 9
+  },
+  {
+    "id": "AR",
+    "name": "Arkansas",
+    "name_short": "AR",
+    "grid": {"x": 5, "y": 6},
+    "votes": 6
+  },
+  {
+    "id": "AZ",
+    "name": "Arizona",
+    "name_short": "AZ",
+    "grid": {"x": 2, "y": 6},
+    "votes": 11
+  },
+  {
+    "id": "CA",
+    "name": "California",
+    "name_short": "CA",
+    "grid": {"x": 1, "y": 5},
+    "votes": 55
+  },
+  {
+    "id": "CO",
+    "name": "Colorado",
+    "name_short": "CO",
+    "grid": {"x": 3, "y": 5},
+    "votes": 9
+  },
+  {
+    "id": "CT",
+    "name": "Connecticut",
+    "name_short": "CT",
+    "grid": {"x": 10, "y": 4},
+    "votes": 7
+  },
+  {
+    "id": "DC",
+    "name": "District of Columbia",
+    "name_short": "D.C.",
+    "grid": {"x": 9, "y": 6},
+    "votes": 3
+  },
+  {
+    "id": "DE",
+    "name": "Delaware",
+    "name_short": "DE",
+    "grid": {"x": 10, "y": 5},
+    "votes": 3
+  },
+  {
+    "id": "FL",
+    "name": "Florida",
+    "name_short": "FL",
+    "grid": {"x": 9, "y": 8},
+    "votes": 29
+  },
+  {
+    "id": "GA",
+    "name": "Georgia",
+    "name_short": "GA",
+    "grid": {"x": 8, "y": 7},
+    "votes": 16
+  },
+  {
+    "id": "HI",
+    "name": "Hawaii",
+    "name_short": "HI",
+    "grid": {"x": 0, "y": 8},
+    "votes": 4
+  },
+  {
+    "id": "IA",
+    "name": "Iowa",
+    "name_short": "IA",
+    "grid": {"x": 5, "y": 4},
+    "votes": 6
+  },
+  {
+    "id": "ID",
+    "name": "Idaho",
+    "name_short": "ID",
+    "grid": {"x": 2, "y": 3},
+    "votes": 4
+  },
+  {
+    "id": "IL",
+    "name": "Illinois",
+    "name_short": "IL",
+    "grid": {"x": 6, "y": 3},
+    "votes": 20
+  },
+  {
+    "id": "IN",
+    "name": "Indiana",
+    "name_short": "IN",
+    "grid": {"x": 6, "y": 4},
+    "votes": 11
+  },
+  {
+    "id": "KS",
+    "name": "Kansas",
+    "name_short": "KS",
+    "grid": {"x": 4, "y": 6},
+    "votes": 6
+  },
+  {
+    "id": "KY",
+    "name": "Kentucky",
+    "name_short": "KY",
+    "grid": {"x": 6, "y": 5},
+    "votes": 8
+  },
+  {
+    "id": "LA",
+    "name": "Louisiana",
+    "name_short": "LA",
+    "grid": {"x": 5, "y": 7},
+    "votes": 8
+  },
+  {
+    "id": "MA",
+    "name": "Massachusetts",
+    "name_short": "MA",
+    "grid": {"x": 11, "y": 3},
+    "votes": 11
+  },
+  {
+    "id": "MD",
+    "name": "Maryland",
+    "name_short": "MD",
+    "grid": {"x": 9, "y": 5},
+    "votes": 10
+  },
+  {
+    "id": "ME",
+    "name": "Maine",
+    "name_short": "ME",
+    "grid": {"x": 11, "y": 1},
+    "votes": 4
+  },
+  {
+    "id": "MI",
+    "name": "Michigan",
+    "name_short": "MI",
+    "grid": {"x": 8, "y": 3},
+    "votes": 16
+  },
+  {
+    "id": "MN",
+    "name": "Minnesota",
+    "name_short": "MN",
+    "grid": {"x": 5, "y": 3},
+    "votes": 10
+  },
+  {
+    "id": "MO",
+    "name": "Missouri",
+    "name_short": "MO",
+    "grid": {"x": 5, "y": 5},
+    "votes": 10
+  },
+  {
+    "id": "MS",
+    "name": "Mississippi",
+    "name_short": "MS",
+    "grid": {"x": 6, "y": 7},
+    "votes": 6
+  },
+  {
+    "id": "MT",
+    "name": "Montana",
+    "name_short": "MT",
+    "grid": {"x": 3, "y": 3},
+    "votes": 3
+  },
+  {
+    "id": "NC",
+    "name": "North Carolina",
+    "name_short": "NC",
+    "grid": {"x": 7, "y": 6},
+    "votes": 15
+  },
+  {
+    "id": "ND",
+    "name": "North Dakota",
+    "name_short": "ND",
+    "grid": {"x": 4, "y": 3},
+    "votes": 3
+  },
+  {
+    "id": "NE",
+    "name": "Nebraska",
+    "name_short": "NE",
+    "grid": {"x": 4, "y": 5},
+    "votes": 5
+  },
+  {
+    "id": "NH",
+    "name": "New Hampshire",
+    "name_short": "NH",
+    "grid": {"x": 11, "y": 2},
+    "votes": 4
+  },
+  {
+    "id": "NJ",
+    "name": "New Jersey",
+    "name_short": "NJ",
+    "grid": {"x": 9, "y": 4},
+    "votes": 14
+  },
+  {
+    "id": "NM",
+    "name": "New Mexico",
+    "name_short": "NM",
+    "grid": {"x": 3, "y": 6},
+    "votes": 5
+  },
+  {
+    "id": "NV",
+    "name": "Nevada",
+    "name_short": "NV",
+    "grid": {"x": 2, "y": 4},
+    "votes": 6
+  },
+  {
+    "id": "NY",
+    "name": "New York",
+    "name_short": "NY",
+    "grid": {"x": 9, "y": 3},
+    "votes": 29
+  },
+  {
+    "id": "OH",
+    "name": "Ohio",
+    "name_short": "OH",
+    "grid": {"x": 7, "y": 4},
+    "votes": 18
+  },
+  {
+    "id": "OK",
+    "name": "Oklahoma",
+    "name_short": "OK",
+    "grid": {"x": 4, "y": 7},
+    "votes": 7
+  },
+  {
+    "id": "OR",
+    "name": "Oregon",
+    "name_short": "OR",
+    "grid": {"x": 1, "y": 4},
+    "votes": 7
+  },
+  {
+    "id": "PA",
+    "name": "Pennsylvania",
+    "name_short": "PA",
+    "grid": {"x": 8, "y": 4},
+    "votes": 20
+  },
+  {
+    "id": "RI",
+    "name": "Rhode Island",
+    "name_short": "RI",
+    "grid": {"x": 10, "y": 3},
+    "votes": 4
+  },
+  {
+    "id": "SC",
+    "name": "South Carolina",
+    "name_short": "SC",
+    "grid": {"x": 8, "y": 6},
+    "votes": 9
+  },
+  {
+    "id": "SD",
+    "name": "South Dakota",
+    "name_short": "SD",
+    "grid": {"x": 4, "y": 4},
+    "votes": 3
+  },
+  {
+    "id": "TN",
+    "name": "Tennessee",
+    "name_short": "TN",
+    "grid": {"x": 6, "y": 6},
+    "votes": 11
+  },
+  {
+    "id": "TX",
+    "name": "Texas",
+    "name_short": "TX",
+    "grid": {"x": 4, "y": 8},
+    "votes": 38
+  },
+  {
+    "id": "UT",
+    "name": "Utah",
+    "name_short": "UT",
+    "grid": {"x": 2, "y": 5},
+    "votes": 6
+  },
+  {
+    "id": "VA",
+    "name": "Virginia",
+    "name_short": "VA",
+    "grid": {"x": 8, "y": 5},
+    "votes": 13
+  },
+  {
+    "id": "VT",
+    "name": "Vermont",
+    "name_short": "VT",
+    "grid": {"x": 10, "y": 2},
+    "votes": 3
+  },
+  {
+    "id": "WA",
+    "name": "Washington",
+    "name_short": "WA",
+    "grid": {"x": 1, "y": 3},
+    "votes": 12
+  },
+  {
+    "id": "WI",
+    "name": "Wisconsin",
+    "name_short": "WI",
+    "grid": {"x": 7, "y": 3},
+    "votes": 10
+  },
+  {
+    "id": "WV",
+    "name": "West Virginia",
+    "name_short": "WV",
+    "grid": {"x": 7, "y": 5},
+    "votes": 5
+  },
+  {
+    "id": "WY",
+    "name": "WY",
+    "name_short": "Wyo.",
+    "grid": {"x": 3, "y": 4},
+    "votes": 3
+  }
+]
